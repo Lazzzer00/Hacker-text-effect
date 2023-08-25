@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+    font-size: 5rem;
+    font-family: "Space Mono", monospace;
+}
